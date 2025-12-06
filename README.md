@@ -23,6 +23,3 @@ A simple Python application to manage daily tasks using **Object-Oriented Progra
 - File Handling
 - Datetime module
 - Random module (for unique task IDs)
-
-```bash
-git clone https://github.com/your-username/student-task-tracker.git
